@@ -1,0 +1,4 @@
+D:\Coding\Patrones\obj\Debug\net8.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Patrones\obj\Debug\net8.0\Patrones.AssemblyInfoInputs.cache
+D:\Coding\Patrones\obj\Debug\net8.0\Patrones.AssemblyInfo.cs
+D:\Coding\Patrones\obj\Debug\net8.0\Patrones.csproj.CoreCompileInputs.cache
